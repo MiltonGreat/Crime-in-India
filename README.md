@@ -35,6 +35,8 @@ Each file provides data on specific crime categories, enabling a comprehensive a
 
 ### Key Results
 
+![screenshot-github com-2025 01 29-17_07_28](https://github.com/user-attachments/assets/ea4d7681-e43b-411c-bd12-cfea459d9c38)
+
 ##### Visualization Insights
 - Recovery Trends: Clear regional disparities in recovery rates.
 - Annual Trends: Consistent patterns in property theft and recovery over the years.
